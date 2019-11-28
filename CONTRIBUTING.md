@@ -17,10 +17,12 @@ Contributions are required to adhere to the [Developer Certificate of Origin (DC
 ## Pull Request Guidelines
 
 * Reference to a GitHub issue.
-* [Apache License 2.0 SPDX](https://spdx.org/licenses/Apache-2.0) headers on all files.
+* Copyright headers on all files.
+  * Copyright SecureKey Technologies Inc. and the TrustBloc contributors.
+  * [Apache License 2.0 SPDX](https://spdx.org/licenses/Apache-2.0) headers on all files.
 * [Developer Certificate of Origin (DCO)](https://developercertificate.org) with git sign-off.
 * [Semantic commit message](https://conventionalcommits.org) on the pull request and commit titles.
-* Verified commit signature. See [GitHub's About commit signature verification](https://help.github.com/en/articles/about-commit-signature-verification) for more information.
+* Verified commit signatures are encouraged. See [GitHub's About commit signature verification](https://help.github.com/en/articles/about-commit-signature-verification) for more information.
 
 # License
 The TrustBloc community repositories are licensed under Apache License, Version 2.0 (Apache-2.0). See the [LICENSE](LICENSE) file.
